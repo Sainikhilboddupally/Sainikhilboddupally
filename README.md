@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sainikhilboddupally
+- 👋 Hi, I’m @Sai Nikhil Boddupally
 - 👀 I’m interested in exploring 
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my insta @sainikhil07 or my gmail :sainikhilboddupally120@gmail.com
+- 📫 How to reach me through my insta @sainikhil07 or my gmail :sainikhilboddupally1209@gmail.com
 
 <!---
 Sainikhilboddupally/Sainikhilboddupally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
